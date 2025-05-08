@@ -8,7 +8,7 @@ Python program using scapy to sniff packets in a network
 * **Root privlages**
 
 # Usage
-``chmod u+x  sniffer.py``
+``chmod u+x sniffer.py``
 
 ``sudo ./sniffer.py [put the name of your interface]``
 
